@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [FHD]" tvg-logo="http://cc90.one/APQ" group-title="Canais | Filmes e Séries",A&E [FHD]
+http://pfsv.io:80/OO9583/eg4676/293.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [FHD][H265]" tvg-logo="http://cc90.one/WHI" group-title="Canais | Filmes e Séries",A&E [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30227.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [HD]" tvg-logo="http://cc90.one/APV" group-title="Canais | Filmes e Séries",A&E [HD]
+http://pfsv.io:80/OO9583/eg4676/299.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [SD]" tvg-logo="http://cc90.one/AQR" group-title="Canais | Filmes e Séries",A&E [SD]
+http://pfsv.io:80/OO9583/eg4676/324.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://cc90.one/ARX3" group-title="Canais | Filmes e Séries",ADULT SWIM [HD]
+http://pfsv.io:80/OO9583/eg4676/199850.ts
