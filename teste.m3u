@@ -1,12 +1,174 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [FHD]" tvg-logo="http://cc90.one/APQ" group-title="Canais | Filmes e Séries",A&E [FHD]
-http://pfsv.io:80/OO9583/eg4676/293.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [FHD][H265]" tvg-logo="http://cc90.one/WHI" group-title="Canais | Filmes e Séries",A&E [FHD][H265]
-http://pfsv.io:80/OO9583/eg4676/30227.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [HD]" tvg-logo="http://cc90.one/APV" group-title="Canais | Filmes e Séries",A&E [HD]
-http://pfsv.io:80/OO9583/eg4676/299.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E [SD]" tvg-logo="http://cc90.one/AQR" group-title="Canais | Filmes e Séries",A&E [SD]
-http://pfsv.io:80/OO9583/eg4676/324.ts
-#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://cc90.one/ARX3" group-title="Canais | Filmes e Séries",ADULT SWIM [HD]
-http://pfsv.io:80/OO9583/eg4676/199850.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA [FHD]" tvg-logo="http://cc90.one/AYR" group-title="Canais | Telecine",TELECINE PIPOCA [FHD]
+http://pfsv.io:80/OO9583/eg4676/564.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA [FHD][H265]" tvg-logo="http://cc90.one/VST" group-title="Canais | Telecine",TELECINE PIPOCA [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30245.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA [HD]" tvg-logo="http://cc90.one/AYZ" group-title="Canais | Telecine",TELECINE PIPOCA [HD]
+http://pfsv.io:80/OO9583/eg4676/572.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA [SD]" tvg-logo="http://cc90.one/AZF" group-title="Canais | Telecine",TELECINE PIPOCA [SD]
+http://pfsv.io:80/OO9583/eg4676/578.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM [FHD]" tvg-logo="http://cc90.one/AYS" group-title="Canais | Telecine",TELECINE PREMIUM [FHD]
+http://pfsv.io:80/OO9583/eg4676/565.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM [FHD][H265]" tvg-logo="http://cc90.one/VSU" group-title="Canais | Telecine",TELECINE PREMIUM [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30246.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM [HD]" tvg-logo="http://cc90.one/AZA" group-title="Canais | Telecine",TELECINE PREMIUM [HD]
+http://pfsv.io:80/OO9583/eg4676/573.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM [SD]" tvg-logo="http://cc90.one/AZG" group-title="Canais | Telecine",TELECINE PREMIUM [SD]
+http://pfsv.io:80/OO9583/eg4676/579.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH [FHD]" tvg-logo="http://cc90.one/AYT" group-title="Canais | Telecine",TELECINE TOUCH [FHD]
+http://pfsv.io:80/OO9583/eg4676/566.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH [FHD][H265]" tvg-logo="http://cc90.one/VSV" group-title="Canais | Telecine",TELECINE TOUCH [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30247.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH [HD]" tvg-logo="http://cc90.one/AYY" group-title="Canais | Telecine",TELECINE TOUCH [HD]
+http://pfsv.io:80/OO9583/eg4676/571.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH [SD]" tvg-logo="http://cc90.one/AZE" group-title="Canais | Telecine",TELECINE TOUCH [SD]
+http://pfsv.io:80/OO9583/eg4676/577.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD]" tvg-logo="http://cc90.one/APJ" group-title="Canais | Filmes e Séries",TLC [FHD]
+http://pfsv.io:80/OO9583/eg4676/286.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [FHD][H265]" tvg-logo="http://cc90.one/WHK" group-title="Canais | Filmes e Séries",TLC [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30229.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [HD]" tvg-logo="http://cc90.one/AQJ" group-title="Canais | Filmes e Séries",TLC [HD]
+http://pfsv.io:80/OO9583/eg4676/314.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC [SD]" tvg-logo="http://cc90.one/ARG" group-title="Canais | Filmes e Séries",TLC [SD]
+http://pfsv.io:80/OO9583/eg4676/340.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-name="TNT NOVELAS [HD]" tvg-logo="http://cc90.one/OOK6" group-title="Canais | Filmes e Séries",TNT NOVELAS [HD]
+http://pfsv.io:80/OO9583/eg4676/148422.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-name="TNT NOVELAS [SD]" tvg-logo="http://cc90.one/AAKS" group-title="Canais | Filmes e Séries",TNT NOVELAS [SD]
+http://pfsv.io:80/OO9583/eg4676/148423.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br" tvg-name="TNT SERIES [FHD]" tvg-logo="http://cc90.one/APL" group-title="Canais | Filmes e Séries",TNT SERIES [FHD]
+http://pfsv.io:80/OO9583/eg4676/288.ts
+#EXTINF:-1 tvg-id="FRANCE.24.HD.br" tvg-name="TNT SERIES [FHD][H265]" tvg-logo="http://cc90.one/WHH" group-title="Canais | Filmes e Séries",TNT SERIES [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30225.ts
+#EXTINF:-1 tvg-id="FRANCE.24.HD.br" tvg-name="TNT SERIES [HD]" tvg-logo="http://cc90.one/AQL" group-title="Canais | Filmes e Séries",TNT SERIES [HD]
+http://pfsv.io:80/OO9583/eg4676/316.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br" tvg-name="TNT SERIES [SD]" tvg-logo="http://cc90.one/ARI" group-title="Canais | Filmes e Séries",TNT SERIES [SD]
+http://pfsv.io:80/OO9583/eg4676/342.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TNT.br" tvg-name="TNT [FHD]" tvg-logo="http://cc90.one/APK" group-title="Canais | Filmes e Séries",TNT [FHD]
+http://pfsv.io:80/OO9583/eg4676/287.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Mega.TV.br" tvg-name="TNT [FHD][H265]" tvg-logo="http://cc90.one/WHG" group-title="Canais | Filmes e Séries",TNT [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30224.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT [HD]" tvg-logo="http://cc90.one/AQK" group-title="Canais | Filmes e Séries",TNT [HD]
+http://pfsv.io:80/OO9583/eg4676/315.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TNT.HD.³.br" tvg-name="TNT [SD]" tvg-logo="http://cc90.one/ARH" group-title="Canais | Filmes e Séries",TNT [SD]
+http://pfsv.io:80/OO9583/eg4676/341.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST [HD]" tvg-logo="http://cc90.one/WJF" group-title="Canais | Infantis",TOONCAST [HD]
+http://pfsv.io:80/OO9583/eg4676/48756.ts
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST [SD]" tvg-logo="http://cc90.one/AKV" group-title="Canais | Infantis",TOONCAST [SD]
+http://pfsv.io:80/OO9583/eg4676/160.ts
+#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="TRACE BRAZUCA [FHD]" tvg-logo="http://cc90.one/VAQ" group-title="Canais | Art & Music",TRACE BRAZUCA [FHD]
+http://pfsv.io:80/OO9583/eg4676/50878.ts
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="TRACE BRAZUCA [FHD][H265]" tvg-logo="" group-title="Canais | Art & Music",TRACE BRAZUCA [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/231855.ts
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="TRACE BRAZUCA [HD]" tvg-logo="http://cc90.one/VAU" group-title="Canais | Art & Music",TRACE BRAZUCA [HD]
+http://pfsv.io:80/OO9583/eg4676/90690.ts
+#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="TRACE BRAZUCA [SD]" tvg-logo="http://cc90.one/VAT" group-title="Canais | Art & Music",TRACE BRAZUCA [SD]
+http://pfsv.io:80/OO9583/eg4676/90689.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Travel.Box.Brasil.HD..br" tvg-name="TRAVEL BOX BRASIL [FHD]" tvg-logo="http://cc90.one/VMN" group-title="Canais | Variedades",TRAVEL BOX BRASIL [FHD]
+http://pfsv.io:80/OO9583/eg4676/50882.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Travel.Box.Brasil.HD..br" tvg-name="TRAVEL BOX BRASIL [HD]" tvg-logo="http://cc90.one/VMK" group-title="Canais | Variedades",TRAVEL BOX BRASIL [HD]
+http://pfsv.io:80/OO9583/eg4676/50836.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Travel.Box.Brasil.HD..br" tvg-name="TRAVEL BOX BRASIL [SD]" tvg-logo="http://cc90.one/VML" group-title="Canais | Variedades",TRAVEL BOX BRASIL [SD]
+http://pfsv.io:80/OO9583/eg4676/50837.ts
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA [SD]" tvg-logo="http://cc90.one/VPS" group-title="Canais | Religiosos",TV APARECIDA [SD]
+http://pfsv.io:80/OO9583/eg4676/548.ts
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL [SD]" tvg-logo="http://cc90.one/AIG" group-title="Canais | Abertos",TV BRASIL [SD]
+http://pfsv.io:80/OO9583/eg4676/89.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA [FHD]" tvg-logo="http://cc90.one/AGR" group-title="Canais | Abertos",TV CULTURA [FHD]
+http://pfsv.io:80/OO9583/eg4676/47.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA [FHD][H265]" tvg-logo="http://cc90.one/ONS" group-title="Canais | Abertos",TV CULTURA [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30183.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA [HD]" tvg-logo="http://cc90.one/AHI" group-title="Canais | Abertos",TV CULTURA [HD]
+http://pfsv.io:80/OO9583/eg4676/64.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA [SD]" tvg-logo="http://cc90.one/AIH" group-title="Canais | Abertos",TV CULTURA [SD]
+http://pfsv.io:80/OO9583/eg4676/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar [HD]" tvg-logo="http://cc90.one/VPZ" group-title="Canais | Religiosos",TV Evangelizar [HD]
+http://pfsv.io:80/OO9583/eg4676/53337.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar [SD]" tvg-logo="http://cc90.one/VQH" group-title="Canais | Religiosos",TV Evangelizar [SD]
+http://pfsv.io:80/OO9583/eg4676/109555.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA SP [FHD]" tvg-logo="http://cc90.one/AGT" group-title="Canais | Abertos",TV GAZETA SP [FHD]
+http://pfsv.io:80/OO9583/eg4676/49.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA SP [FHD][H265]" tvg-logo="http://cc90.one/ONU" group-title="Canais | Abertos",TV GAZETA SP [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30189.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA SP [HD]" tvg-logo="http://cc90.one/AHA" group-title="Canais | Abertos",TV GAZETA SP [HD]
+http://pfsv.io:80/OO9583/eg4676/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES [HD]" tvg-logo="http://cc90.one/VQG" group-title="Canais | Religiosos",TV GIDEOES [HD]
+http://pfsv.io:80/OO9583/eg4676/69083.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GOSPEL CARTOON [HD]" tvg-logo="http://cc90.one/WJG" group-title="Canais | Infantis",TV GOSPEL CARTOON [HD]
+http://pfsv.io:80/OO9583/eg4676/69084.ts
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTICA [SD]" tvg-logo="http://cc90.one/AHQ" group-title="Canais | Abertos",TV JUSTICA [SD]
+http://pfsv.io:80/OO9583/eg4676/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORT 1 [HD]" tvg-logo="http://cc90.one/VKZ" group-title="Canais | Jogos & Eventos",TV NSPORT 1 [HD]
+http://pfsv.io:80/OO9583/eg4676/69076.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORT 2 [HD]" tvg-logo="http://cc90.one/VLA" group-title="Canais | Jogos & Eventos",TV NSPORT 2 [HD]
+http://pfsv.io:80/OO9583/eg4676/69077.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORT 3 [HD]" tvg-logo="http://cc90.one/VLB" group-title="Canais | Jogos & Eventos",TV NSPORT 3 [HD]
+http://pfsv.io:80/OO9583/eg4676/69078.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Pai.Eterno.br" tvg-name="Tv Pai Eterno [FHD]" tvg-logo="http://cc90.one/VQE" group-title="Canais | Religiosos",Tv Pai Eterno [FHD]
+http://pfsv.io:80/OO9583/eg4676/290303.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Pai.Eterno.br" tvg-name="Tv Pai Eterno [HD]" tvg-logo="http://cc90.one/VQE" group-title="Canais | Religiosos",Tv Pai Eterno [HD]
+http://pfsv.io:80/OO9583/eg4676/69080.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br" tvg-name="TV RA-TIM-BUM [FHD]" tvg-logo="http://cc90.one/AJV" group-title="Canais | Infantis",TV RA-TIM-BUM [FHD]
+http://pfsv.io:80/OO9583/eg4676/132.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br" tvg-name="TV RA-TIM-BUM [HD]" tvg-logo="http://cc90.one/AKJ" group-title="Canais | Infantis",TV RA-TIM-BUM [HD]
+http://pfsv.io:80/OO9583/eg4676/148.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br" tvg-name="TV RA-TIM-BUM [SD]" tvg-logo="http://cc90.one/AKW" group-title="Canais | Infantis",TV RA-TIM-BUM [SD]
+http://pfsv.io:80/OO9583/eg4676/161.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.Gospel.HD.br" tvg-name="TV Rede Gospel [HD]" tvg-logo="http://cc90.one/VPX" group-title="Canais | Religiosos",TV Rede Gospel [HD]
+http://pfsv.io:80/OO9583/eg4676/53333.ts
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO [SD]" tvg-logo="http://cc90.one/AHP" group-title="Canais | Abertos",TV SENADO [SD]
+http://pfsv.io:80/OO9583/eg4676/72.ts
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="TV Universal (IURD)" tvg-logo="http://cc90.one/VPW" group-title="Canais | Religiosos",TV Universal (IURD)
+http://pfsv.io:80/OO9583/eg4676/53286.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br" tvg-name="TV-RA-TIM-BUM [FHD][H265]" tvg-logo="http://cc90.one/WIZ" group-title="Canais | Infantis",TV-RA-TIM-BUM [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30265.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2" tvg-logo="http://cc90.one/DYS4" group-title="Canais | Esportes",UFC Fight Pass 2
+http://pfsv.io:80/OO9583/eg4676/204149.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 3" tvg-logo="http://cc90.one/XRK" group-title="Canais | Esportes",UFC FIGHT PASS 3
+http://pfsv.io:80/OO9583/eg4676/132343.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL [FHD]" tvg-logo="http://cc90.one/APN" group-title="Canais | Filmes e Séries",UNIVERSAL CHANNEL [FHD]
+http://pfsv.io:80/OO9583/eg4676/290.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL [FHD][H265]" tvg-logo="http://cc90.one/WJQ" group-title="Canais | Filmes e Séries",UNIVERSAL CHANNEL [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30230.ts
+#EXTINF:-1 tvg-id="BR - Universal" tvg-name="UNIVERSAL CHANNEL [HD]" tvg-logo="http://cc90.one/AQM" group-title="Canais | Filmes e Séries",UNIVERSAL CHANNEL [HD]
+http://pfsv.io:80/OO9583/eg4676/317.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL [SD]" tvg-logo="http://cc90.one/ARJ" group-title="Canais | Filmes e Séries",UNIVERSAL CHANNEL [SD]
+http://pfsv.io:80/OO9583/eg4676/343.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV - Jogo 1 [HD]" tvg-logo="http://cc90.one/OOJ3" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 1 [HD]
+http://pfsv.io:80/OO9583/eg4676/258561.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV - Jogo 2 [HD]" tvg-logo="http://cc90.one/OOJ4" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 2 [HD]
+http://pfsv.io:80/OO9583/eg4676/258562.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV - Jogo 3 [HD]" tvg-logo="http://cc90.one/OOJ5" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 3 [HD]
+http://pfsv.io:80/OO9583/eg4676/258563.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV - Jogo 4 [HD]" tvg-logo="http://cc90.one/OOJ6" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 4 [HD]
+http://pfsv.io:80/OO9583/eg4676/258564.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV - Jogo 5 [HD]" tvg-logo="http://cc90.one/OOJ7" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 5 [HD]
+http://pfsv.io:80/OO9583/eg4676/258565.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV - Jogo 6 [HD]" tvg-logo="http://cc90.one/OOJ8" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 6 [HD]
+http://pfsv.io:80/OO9583/eg4676/258566.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV [FHD]" tvg-logo="http://cc90.one/OOK1" group-title="Canais | Jogos & Eventos",UOL TV [FHD]
+http://pfsv.io:80/OO9583/eg4676/258569.ts
+#EXTINF:-1 tvg-id="" tvg-name="UOL TV [HD]" tvg-logo="http://cc90.one/OOK0" group-title="Canais | Jogos & Eventos",UOL TV [HD]
+http://pfsv.io:80/OO9583/eg4676/258568.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [FHD]" tvg-logo="http://cc90.one/VMF" group-title="Canais | Variedades",VIVA [FHD]
+http://pfsv.io:80/OO9583/eg4676/105.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [FHD][H265]" tvg-logo="http://cc90.one/VMI" group-title="Canais | Variedades",VIVA [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30298.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [HD]" tvg-logo="http://cc90.one/AJD" group-title="Canais | Variedades",VIVA [HD]
+http://pfsv.io:80/OO9583/eg4676/114.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [SD]" tvg-logo="http://cc90.one/AJM" group-title="Canais | Variedades",VIVA [SD]
+http://pfsv.io:80/OO9583/eg4676/123.ts
+#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [FHD]" tvg-logo="http://cc90.one/APT" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD]
+http://pfsv.io:80/OO9583/eg4676/297.ts
+#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [FHD][H265]" tvg-logo="http://cc90.one/WJP" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30226.ts
+#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="WARNER CHANNEL [HD]" tvg-logo="http://cc90.one/AQN" group-title="Canais | Filmes e Séries",WARNER CHANNEL [HD]
+http://pfsv.io:80/OO9583/eg4676/319.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.br" tvg-name="WARNER CHANNEL [SD]" tvg-logo="http://cc90.one/ARL" group-title="Canais | Filmes e Séries",WARNER CHANNEL [SD]
+http://pfsv.io:80/OO9583/eg4676/345.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO [FHD]" tvg-logo="http://cc90.one/AJW" group-title="Canais | Art & Music",WOOHOO [FHD]
+http://pfsv.io:80/OO9583/eg4676/133.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO [FHD][H265]" tvg-logo="http://cc90.one/VAN" group-title="Canais | Art & Music",WOOHOO [FHD][H265]
+http://pfsv.io:80/OO9583/eg4676/30174.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO [HD]" tvg-logo="http://cc90.one/AFN" group-title="Canais | Art & Music",WOOHOO [HD]
+http://pfsv.io:80/OO9583/eg4676/14.ts
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO [SD]" tvg-logo="http://cc90.one/AFG" group-title="Canais | Art & Music",WOOHOO [SD]
+http://pfsv.io:80/OO9583/eg4676/7.ts
